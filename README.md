@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/icon/icon.png" width="120" alt="Our Heart Logo">
-</p>
-
 <h1 align="center">💕 Our Heart</h1>
 
 <p align="center">
