@@ -1,8 +1,3 @@
-Below is the complete, production-ready `README.md` for your **Our Heart** project. It includes clear placeholders for screenshots, detailed sections on features and architecture, and all necessary instructions for users and contributors.
-
----
-
-```markdown
 <p align="center">
   <img src="assets/icon/icon.png" width="120" alt="Our Heart Logo">
 </p>
