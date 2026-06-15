@@ -45,7 +45,7 @@ Built with an obsessive focus on **glassmorphism aesthetics**, **local data priv
 | ✍️ **Love Letters** | Write, save, and cherish heartfelt letters with word/character counts |
 | 📅 **Planner & Reminders** | Auto‑generated anniversaries, birthdays, and custom reminders with local notifications |
 | 📝 **Notes (Info)** | Quick journal entries and shared notes with rich text |
-| 🎬 **Lyric Video Creator** | Search/download audio from YouTube Music, fetch synced lyrics (LRCLIB/RentAnAdviser), 14 animation styles, custom glass colors, render directly to video using FFmpeg |
+| 🎬 **Lyric Video Creator** | Import music & a video from your device, fetch synced lyrics (LRCLIB/RentAnAdviser), 14 animation styles, custom glass colors, render directly to video using FFmpeg |
 | 🎨 **Glassmorphism UI** | Consistent frosted‑glass design with 24 preset glass colors and light/dark theme support |
 | 📤 **Data Export** | Export all memories, letters, and photos as a ZIP file with JSON metadata |
 
