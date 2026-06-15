@@ -53,8 +53,6 @@ Built with an obsessive focus on **glassmorphism aesthetics**, **local data priv
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/583d3285-da2e-4130-929b-f04b3943e326" width="180" alt="Home Screen">
   <img src="https://github.com/user-attachments/assets/fa66e742-4638-4d83-8fad-d95f83da5ad1" width="180" alt="Gallery albums">
