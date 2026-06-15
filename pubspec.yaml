@@ -1,0 +1,93 @@
+name: our_heart
+description: "Our Heart – a private relationship companion."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # UI & Glassmorphism
+  flutter_bloc: ^9.1.1           # Updated to latest stable
+  equatable: ^2.0.8             # Updated
+  intl: ^0.20.2                 # Latest as of early 2026
+
+  # Database
+  drift: ^2.33.0                # Updated
+  sqlite3: ^3.0.0               # Updated, note version 3.x
+  path_provider: ^2.1.5
+  path: ^1.8.3
+  drift_flutter: ^0.3.0         # Updated
+
+  # Storage
+  shared_preferences: ^2.5.3
+  flutter_secure_storage: ^10.3.1  # Updated
+
+  # Media
+  image_picker: ^1.2.0
+  image_cropper: ^11.0.0        # Updated
+  
+  # Time / Date
+  timezone: ^0.11.0
+
+  # Permissions
+  permission_handler: ^12.0.0   # Updated
+
+  # Notifications
+  flutter_local_notifications: ^21.0.0  # Updated
+
+  # Crypto (PIN hashing)
+  crypto: ^3.0.6                # Updated
+
+  # Export / Archive
+  archive: ^4.0.9               # Updated
+
+  # Calendar
+  table_calendar: ^3.2.0        # Updated
+  # App settings
+  app_settings: ^5.1.1
+  
+  # Instagram Feature
+  youtube_explode_dart: ^2.2.2
+  just_audio: ^0.9.38
+  http: ^1.2.1
+  ffmpeg_kit_flutter_new: ^4.2.1
+  screenshot: ^3.0.0
+  file_picker: ^8.0.0
+  ytmusicapi_dart: ^2.3.0
+  html: ^0.15.6
+  flutter_quick_video_encoder_fork: ^0.0.2
+  widget_recorder_plus: ^1.0.4
+  share_plus: ^7.0.0
+  open_file: ^3.4.0
+  video_player: ^2.11.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0         # Updated
+  drift_dev: ^2.32.1            # Updated, keep in sync with drift
+  build_runner: ^2.15.0         # Updated
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
