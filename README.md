@@ -40,7 +40,7 @@ Built with an obsessive focus on **glassmorphism aesthetics**, **local data priv
 | Feature | Description |
 |---------|-------------|
 | 🔐 **PIN Authentication** | SHA‑256 hashed PIN with salt, stored in Android Keystore — never in plain text |
-| 💖 **Interactive Heart** | Beautiful heart filling animation that grows as your relationship progresses |
+| 💖 **Interactive Card** | A beautiful card in the home screen, that can be used for stories |
 | 📸 **Shared Gallery** | Organize memories into custom albums with thumbnail generation |
 | ✍️ **Love Letters** | Write, save, and cherish heartfelt letters with word/character counts |
 | 📅 **Planner & Reminders** | Auto‑generated anniversaries, birthdays, and custom reminders with local notifications |
@@ -53,17 +53,19 @@ Built with an obsessive focus on **glassmorphism aesthetics**, **local data priv
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 <p align="center">
-  <img src="screenshots/home.jpg" width="180" alt="Home Screen with heart animation">
-  <img src="screenshots/gallery.jpg" width="180" alt="Gallery albums">
-  <img src="screenshots/lyric_video.jpg" width="180" alt="Lyric video creator">
-  <img src="screenshots/letters.jpg" width="180" alt="Love letters editor">
+  <img src="https://github.com/user-attachments/assets/583d3285-da2e-4130-929b-f04b3943e326" width="180" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/fa66e742-4638-4d83-8fad-d95f83da5ad1" width="180" alt="Gallery albums">
+  <img src="https://github.com/user-attachments/assets/4d33680c-c134-4072-83ae-e6cb9a09a493" width="180" alt="Lyric video creator">
+  <img src="https://github.com/user-attachments/assets/5df27c70-4806-414e-b4a5-f772e3470a0e" width="180" alt="Love letters editor">
 </p>
 <p align="center">
-  <img src="screenshots/planner.jpg" width="180" alt="Calendar and events">
-  <img src="screenshots/reminders.jpg" width="180" alt="Reminders list">
-  <img src="screenshots/settings.jpg" width="180" alt="Settings with glassmorphism">
-  <img src="screenshots/pin.jpg" width="180" alt="PIN authentication screen">
+  <img src="https://github.com/user-attachments/assets/8bfff36d-2abc-49e6-abd0-2feea153563c" width="180" alt="Calendar and events">
+  <img src="https://github.com/user-attachments/assets/8bf6c534-eef2-4f71-84cd-aeba8b415a43" width="180" alt="Reminders list">
+  <img src="https://github.com/user-attachments/assets/90204e90-94dc-4346-b232-105bfea7ee34" width="180" alt="Settings with glassmorphism">
+  <img src="https://github.com/user-attachments/assets/2c512afb-0207-4aab-ac2b-8cb300bb4a63" width="180" alt="PIN authentication screen">
 </p>
 
 ---
